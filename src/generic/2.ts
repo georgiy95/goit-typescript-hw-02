@@ -20,8 +20,6 @@ function compare (top, bottom): AllType {
 export {};
 */
 
-
-
 type AllType = {
   name: string;
   position: number;
